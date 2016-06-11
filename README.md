@@ -16,9 +16,9 @@
 
 ## 下载地址
  
-[点击下载](https://github.com/Jeff2Ma/AlfredWorkflow-SubHD-HotFilms/master/SubHD-HotFilms.alfredworkflow.alfredworkflow?raw=true)
+[点击下载](https://github.com/Jeff2Ma/AlfredWorkflow-SubHD-HotFilms/SubHD-HotFilms.alfredworkflow.alfredworkflow?raw=true)
 
 ## 其它
 
-Powerby JeffMa at [DeveWork.com](http://devework.com/)， feel free to use :)
+Powered by JeffMa at [DeveWork.com](http://devework.com/)， feel free to use :)
 

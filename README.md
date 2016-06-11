@@ -1,0 +1,24 @@
+# AlfredWorkflow-SubHD-HotFilms
+
+ 一个快速获取SubHD.com 热门影视的Alfred Workflow
+ 
+ ****
+ 
+## 基本说明
+
+这是一个可以通过Alfred 的关键词快速获取[SubHD.com](http://subhd.com/) 首页热门影视的Alfred Workflow。使用Python 语言编写，支持最新的Alfred 3。
+
+使用本Workflow 前请确保你的Alfred APP 的Powerpack 功能已经解锁。
+
+## 效果预览
+
+![效果截图](icons/screenshot.png) 
+
+## 下载地址
+ 
+[点击下载](https://github.com/Jeff2Ma/AlfredWorkflow-SubHD-HotFilms/master/SubHD-HotFilms.alfredworkflow.alfredworkflow?raw=true)
+
+## 其它
+
+Powerby JeffMa at [DeveWork.com](http://devework.com/)， feel free to use :)
+
